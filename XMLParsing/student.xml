@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:students xmlns:ns2="http://www.example.org/student/">
+    <student id="A100">
+        <name>Selçuk Egeli</name>
+        <number>539</number>
+    </student>
+    <student id="A111">
+        <name>Onurcan Donmez</name>
+        <number>21354</number>
+    </student>
+</ns2:students>

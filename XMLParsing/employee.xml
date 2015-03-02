@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+	<employee id="1">
+		<age>25</age>
+		<name>Selcuk Egeli</name>
+		<gender>Male</gender>
+		<role>Java Developer</role>
+	</employee>
+	<employee id="2">
+		<age>25</age>
+		<name>Duygu</name>
+		<gender>Arı</gender>
+		<role>CEO</role>
+	</employee>
+	<employee id="3">
+		<age>25</age>
+		<name>M. Gokhan Ozen</name>
+		<gender>Male</gender>
+		<role>Manager</role>
+	</employee>
+	<employee id="4">
+		<age>25</age>
+		<name>Hakan M. Çağlayan</name>
+		<gender>Male</gender>
+		<role>Manager</role>
+	</employee>
+</employees>

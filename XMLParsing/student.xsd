@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.example.org/student/"
+	targetNamespace="http://www.example.org/student/">
+	<complexType name="StudentType">
+		<sequence>
+			<element name="name" type="string"></element>
+			<element name="number" type="integer"></element>
+		</sequence>
+		<attribute name="id" type="string"></attribute>
+	</complexType>
+	
+	<complexType name="StudentsType">
+		<sequence>
+			<element name="student" type="tns:StudentType" maxOccurs="unbounded"></element>
+		</sequence>
+	</complexType>
+	
+	<element name="students" type="tns:StudentsType"></element>
+</schema>
