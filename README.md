@@ -10,4 +10,9 @@ gereksinim haline getiriyor.
   Yukarıda oluşturmuş olduğum XMLParsing maven projesinde, piyasa içerisinde XML verilerle çalışırken belli faktörler göz
 önünde tutularak yapılan seçimlerle ilgili örnek çalışmalar yer almaktadır. 
 
-  XML üzerinde çalışırken DOM, SAX Parsing teknolojileri kullanılır.
+### Parsing Tech
+
+Standart ve standart olmaya çeşitler aşağıdaki gibidir:
+
+* [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapısı olarak modelleyerek, okunmasını ve değiştirilmesini sağlar.
+* [SAX] - 
