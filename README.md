@@ -14,5 +14,5 @@ gereksinim haline getiriyor.
 
 Standart ve standart olmaya çeşitler aşağıdaki gibidir:
 
-* [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapısı olarak modelleyerek, okunmasını ve değiştirilmesini sağlar.
-* [SAX] - 
+* [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapısı olarak modelleyerek, okunmasını ve değiştirilmesini sağlar. Standartdır.
+* [SAX] - SAX, DOM un veriyi hafızada işlemesine karşın, yukarıdan aşağıya sıralı olarak okur. Standart değildir.
