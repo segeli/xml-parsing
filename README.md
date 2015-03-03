@@ -13,14 +13,14 @@ güncel tutmalarını gereksinim haline getiriyor.
 faktörler gözönünde tutularak yapılan tekonoloji seçimine göre yapılan örnek çalışmalar yer almaktadır. 
 ```
 
-### Parsing Tech
+#### Parsing Tech
 
 ```
-  Java JDK içerisinde gömülü olarak 2 xml parser bulunmaktadır. Aşağıda açıkladığım gibi, birbirine karşı artı
-ve eksileri bulunmaktadır.
+  Java JDK içerisinde gömülü olarak 2 xml parser bulunmaktadır. Aşağıda açıkladığım gibi, birbirine karşı 
+artı ve eksileri bulunmaktadır.
 
-* [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapısı 
-olarak modelleyerek, okunmasını ve değiştirilmesini sağlar. Standarttır.
+* [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapı-
+sı olarak modelleyerek, okunmasını ve değiştirilmesini sağlar. Standarttır.
 * [SAX] - SAX, DOM un veriyi hafızada işlemesine karşın, yukarıdan aşağıya sıralı olarak okur. Standart değil-
 dir.
 
