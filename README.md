@@ -21,7 +21,8 @@ ve eksileri bulunmaktadır.
 
 * [DOM] - DOM parser işaret edilmiş XML Dokumanı işlerken bütün veriyi hafızaya yükler; sonrasında ağaç yapısı 
 olarak modelleyerek, okunmasını ve değiştirilmesini sağlar. Standarttır.
-* [SAX] - SAX, DOM un veriyi hafızada işlemesine karşın, yukarıdan aşağıya sıralı olarak okur. Standart değildir.
+* [SAX] - SAX, DOM un veriyi hafızada işlemesine karşın, yukarıdan aşağıya sıralı olarak okur. Standart değil-
+dir.
 
   **DOM** ve **SAX** ile ilgili örnekler proje içerisinde bulunmaktadır.
   **JAXB** örneğide içeren proje, xmlden objeye ve objeden xmle çevirilme işlemini ayrı paket ve sınıfla göste-
