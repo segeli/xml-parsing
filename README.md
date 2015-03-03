@@ -3,8 +3,8 @@
 ```
   Güncel teknoloji kullanımlarına baktığımızda, bir veri değişimi biçimi olan JSON ın XML e 
 göre daha çok rağbet olduğunu görürsünüz. Bunun nedenleri arasında; 
-  ⋅⋅* Javascript ile çok iyi kullanılması 
-  ⋅⋅* İnsanların JSON ı XML e göre hızlı bir şekilde oluşturulması.
+  ⋅ Javascript ile çok iyi kullanılması 
+  ⋅ İnsanların JSON ı XML e göre hızlı bir şekilde oluşturulması.
   
   Güncel teknolojiler yazılımın geliştirilme sürecinde yazılımcılara sağladığı kolaylıklarla
 ve hazırladığı ortamla mutlu etse de, piyasa gerçekleri yazılımcıları bir yandan güncel 
