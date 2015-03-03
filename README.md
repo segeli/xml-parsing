@@ -25,6 +25,6 @@ olarak modelleyerek, okunmasını ve değiştirilmesini sağlar. Standarttır.
 dir.
 
   **DOM** ve **SAX** ile ilgili örnekler proje içerisinde bulunmaktadır.
-  **JAXB** örneğide içeren proje, xmlden objeye ve objeden xmle çevirilme işlemini ayrı paket ve sınıfla göste-
-riyor.
+  **JAXB** örneğide içeren proje, xmlden objeye ve objeden xmle çevirilme işlemini ayrı paket ve sınıfla gös-
+teriyor.
 ```
